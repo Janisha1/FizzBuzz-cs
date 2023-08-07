@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace FizzBuzz
+{
+    class Program {
+        static void Main(string[]args){
+            for (int i=1; i < 101; i++){
+                Console.WriteLine("Print i= " + i);
+            }
+            
+        }
+    }
+}
