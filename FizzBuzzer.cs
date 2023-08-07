@@ -12,6 +12,10 @@ public class FizzBuzzer {
         {
             result += "Buzz";
         }
+        if(IsDivisibleBy(i,7))
+        {
+            result += "Bang";
+        }
         if (result == "")
         {
             result = i.ToString();
