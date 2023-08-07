@@ -1,0 +1,15 @@
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\bin\Debug\net7.0\FizzBuzz-cs.exe
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\bin\Debug\net7.0\FizzBuzz-cs.deps.json
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\bin\Debug\net7.0\FizzBuzz-cs.runtimeconfig.json
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\bin\Debug\net7.0\FizzBuzz-cs.dll
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\bin\Debug\net7.0\FizzBuzz-cs.pdb
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.csproj.AssemblyReference.cache
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.AssemblyInfoInputs.cache
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.AssemblyInfo.cs
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.csproj.CoreCompileInputs.cache
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.dll
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\refint\FizzBuzz-cs.dll
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.pdb
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\FizzBuzz-cs.genruntimeconfig.cache
+C:\Users\janpat\OneDrive - Softwire Technology Limited\Documents\Training\FizzBuzz-cs\obj\Debug\net7.0\ref\FizzBuzz-cs.dll
