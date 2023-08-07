@@ -20,6 +20,24 @@ public class FizzBuzzer {
         {
             result = "Bong";
         }
+        if(IsDivisibleBy(i,13))
+        {
+            int BIndex = result.IndexOf("B");
+            if (result.IndexOf("B") == -1)
+            {
+                result += "Fezz";
+            } 
+            else 
+            {
+                if (BIndex == 0)
+                {
+                    result = "Fezz" + result.Substring(BIndex);
+                } else
+                {
+                    result = result.Substring(0,BIndex) + "Fezz" + result.Substring(BIndex);
+                }
+            }
+        }
         if (result == "")
         {
             result = i.ToString();
