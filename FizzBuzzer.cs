@@ -4,9 +4,16 @@ public class FizzBuzzer {
     public string FizzBuzz(int i) {
         var result = "";
 
-        if(IsDivisibleBy(i, 3)){
+        if(IsDivisibleBy(i, 3))
+        {
             result += "Fizz";
-        } else if (result == ""){
+        }
+        if(IsDivisibleBy(i,5))
+        {
+            result += "Buzz";
+        }
+        if (result == "")
+        {
             result = i.ToString();
         }
          return result;
